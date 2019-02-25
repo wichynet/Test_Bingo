@@ -1,0 +1,7 @@
+C:\Users\Win10\Documents\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\Win10\Documents\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Win10\Documents\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Win10\Documents\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\Win10\Documents\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Win10\Documents\Bingo\Bingo\obj\Debug\Bingo.pdb
